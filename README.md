@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0733-flood-fill) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

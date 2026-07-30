@@ -17,4 +17,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0695-max-area-of-island) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

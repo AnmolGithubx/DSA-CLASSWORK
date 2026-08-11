@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |

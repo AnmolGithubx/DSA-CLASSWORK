@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

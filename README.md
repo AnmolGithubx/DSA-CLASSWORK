@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0001-two-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0695-max-area-of-island](https://github.com/AnmolGithubx/DSA-CLASSWORK/tree/master/0695-max-area-of-island) |
